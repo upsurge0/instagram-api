@@ -53,6 +53,10 @@ go run .
     - /posts/     - POST
     - /posts/users/<user_id> - GET
 
+## Unit Tests
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/16555841-3291efc3-8ef4-4396-a30d-b9fe85a21485?action=collection%2Ffork&collection-url=entityId%3D16555841-3291efc3-8ef4-4396-a30d-b9fe85a21485%26entityType%3Dcollection%26workspaceId%3Da8fc03bc-ae59-4dd3-bdb1-107549cc2e74)
+
    [std lib]: <https://pkg.go.dev/std>
    [mongodb driver]: <https://pkg.go.dev/go.mongodb.org/mongo-driver>
 
